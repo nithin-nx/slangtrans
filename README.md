@@ -18,7 +18,7 @@ SlangSwap – A fun web app that translates slang words from one Kerala district
 Currently, the database contains only a small set of slang words for demo purposes — but it can be expanded in the future to include hundreds more.
 You can check these database entries for testing and verification during development.
 ## Link 
-https://nithin-nx.github.io/slangswap/
+https://nithin-nx.github.io/slangtrans/
 
 ### The Problem (that doesn't exist)
 Keralites love their slang, but sometimes slang from one district sounds like alien language to another district.
@@ -95,6 +95,7 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
 
 
 
